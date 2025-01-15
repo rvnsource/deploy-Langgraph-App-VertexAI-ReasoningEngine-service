@@ -4,3 +4,4 @@
 -In program, agent keyword refers to app running in local laptop, whereas remote_agent keyword is an instance
    deployed in GCP Reasoning Engine managed service.
 -Need to create a bucket in gs (google storage), as defined in 'STAGING_BUCKET' in code code.
+  eg: Look for STAGING_BUCKET = "gs://reasoning-bucket-1"   in the code.
